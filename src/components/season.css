@@ -1,0 +1,6 @@
+.icon-left{position: left;}
+.icon-right{position: left;}
+.season.winter i {color: blue;}
+.season.summer i {color: red;}
+.winter{background-color: aliceblue;}
+.summer{background-color: orange;}
